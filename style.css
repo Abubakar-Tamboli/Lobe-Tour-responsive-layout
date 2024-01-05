@@ -1,0 +1,151 @@
+body{
+    color: #333;
+    height: 200vh;
+    font-family: "Roboto Mono";
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+header{
+    background-color: #fff;
+    height: 10vh;
+    position: fixed;
+    
+}
+.logo{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+.img-link{
+    color: black;
+}
+.img-link:hover{
+    font-size: 30px;
+    font-weight: 600;
+}
+.lobe-logo{
+    margin-left: -8px;
+}
+a{
+    text-decoration:none;
+    color: #767676;
+}
+.nav{
+    display: flex;
+    place-content: space-between;
+    margin-inline: auto;
+    width: 1400px;
+    margin-left: 50px;
+    margin-top: 0;
+}
+.menu{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+section{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-padding-end: 50px;
+    font-size: 18px;
+
+}
+a:hover{
+    color: black;
+    font-size: 19px;
+}
+.download-btn{
+    background-color: #04ddb2;
+    color: #fff;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+    cursor: pointer;
+    transition: padding 0.15s,font-size 0.15s,;
+}
+.download-btn:hover{
+    background-color: #04ddb2;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.download-btn:active{
+    background-color: #04ddb2;
+    color: #fff;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+main{
+    padding-top: 120px;
+    display: grid;
+    place-items: center;
+    gap: 30px;
+    border-bottom: 1px solid #767676;
+    padding-bottom: 50px;
+    margin-left: 130px;
+    margin-right: 130px;
+
+}
+.tour{
+    color: #04ddb2;
+}
+.lobe{
+    margin: 0;
+    font-size: 60px;
+    font-weight:900;
+}
+.build{
+    font-size: 25px;
+    margin: 0;
+    width: 800px;
+    margin-left: 100px;
+}
+.minute{
+    margin-left: 50px;
+}
+.train{
+    font-size: 60px;
+    font-weight:900;
+    width: 700px;
+    margin: 0;
+    margin-left: 220px;
+}
+.with{
+    margin-left: 75px;
+}
+
+.last{
+    display: flex;
+    place-content: space-around;
+    padding-top: 150px;
+    margin-right: 270px;
+    margin-left: 270px;
+    line-height: 45px;
+}
+.footer-logo{
+    font-size: 25px;
+    font-weight: 600;
+}
+.title{
+    font-weight: bold;
+}
+.black{
+    color: #333;
+}
+.black:hover{
+    font-size: 17px;
+    color: #333;
+}
