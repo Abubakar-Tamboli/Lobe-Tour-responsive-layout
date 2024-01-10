@@ -13,6 +13,11 @@ header{
     position: fixed;
 }
 
+.menu{
+    display: flex;
+    align-content: space-between;
+}
+
 .logo{
     font-size: 30px;
     font-weight: 600;
@@ -41,17 +46,7 @@ a{
     margin-left: 50px;
     margin-top: 0;
 }
-.menu{
-    margin-top: 3vh;
-    margin-bottom: 3vh;
-}
-section{
-    display: inline-block;
-    vertical-align: middle;
-    -webkit-padding-end: 50px;
-    font-size: 18px;
 
-}
 a:hover{
     color: black;
     font-size: 19px;
@@ -793,20 +788,14 @@ iframe{
             margin-left: 50px;
             margin-top: 0;
         }
-        .menu{
-            margin-top: 3vh;
-            margin-bottom: 3vh;
-        }
-        section{
-            display: inline-block;
-            vertical-align: middle;
-            -webkit-padding-end: 50px;
-            font-size: 18px;
         
-        }
         a:hover{
             color: black;
             font-size: 19px;
+        }
+        .menu{
+            display: flex;
+            align-content: space-between;
         }
         .download-btn{
             background-color: #04ddb2;
@@ -883,7 +872,6 @@ iframe{
             width: 700px;
            
         }
-        
         
         .last{
             display: flex;
