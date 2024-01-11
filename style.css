@@ -15,7 +15,12 @@ header{
 
 .menu{
     display: flex;
-    align-content: space-between;
+    gap: 50px;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+.menu-tour{
+    color: black;
 }
 
 .logo{
@@ -325,7 +330,9 @@ iframe{
         place-content: space-between;
        
     }
-    
+    .menu{
+        display: none;
+    }
     
     
     main{
@@ -358,8 +365,8 @@ iframe{
     }
     iframe{
         border-radius: 20px;
-        width: 400px;
-        height: 200px;
+        width: 500px;
+        height: 300px;
     }
     .video:hover{
         padding: 42px 22px;
@@ -461,7 +468,12 @@ iframe{
         text-decoration:none;
         color: #767676;
     }
-    
+    .menu{
+        display: flex;
+        gap: 50px;
+        margin-top: 3vh;
+        margin-bottom: 3vh;
+    }
     
     main{
         padding-top: 120px;
@@ -605,15 +617,13 @@ iframe{
         margin-top: 0;
     }
     .menu{
-        margin-top: 1fr;
-        margin-bottom: 1fr;
+        display: flex;
+        gap: 50px;
     }
-    section{
-        display: inline-block;
-        vertical-align: middle;
-        -webkit-padding-end: 50px;
+    .menu-content{
         font-size: 18px;
     }
+    
     .download-btn{
         background-color: #04ddb2;
         color: #fff;
