@@ -15,7 +15,6 @@ header{
 
 .menu{
     display: flex;
-    gap: 50px;
     margin-top: 3vh;
     margin-bottom: 3vh;
 }
@@ -45,7 +44,9 @@ a{
 }
 .nav{
     display: flex;
-    place-content: space-between;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
     margin-inline: auto;
     width: 1400px;
     margin-left: 50px;
@@ -54,7 +55,7 @@ a{
 
 a:hover{
     color: black;
-    font-size: 19px;
+    font-size: 18px;
 }
 .download-btn{
     background-color: #04ddb2;
@@ -155,7 +156,7 @@ iframe{
     color: #333;
 }
 
-@media screen and (min-width:480px){
+@media only screen and (min-width:480px){
    
     
     header{
@@ -297,7 +298,7 @@ iframe{
 }
 
 
-@media screen and(min-width:550px){
+@media only screen and(min-width:600px){
    
     header{
         background-color: #fff;
@@ -360,7 +361,7 @@ iframe{
     
     .video{
         background-color: #e8edef;
-        padding: 40px 20px;
+        padding: 50px 20px;
         border-radius: 20px;
     }
     iframe{
@@ -434,12 +435,12 @@ iframe{
     }
     .message,.twitter,.youtube{
        width: 30px;
-    }
+    } 
     
 }
 
 
-@media screen and(min-width:800px){
+@media only screen and(min-width:800px){
    
     
     header{
@@ -479,7 +480,6 @@ iframe{
         padding-top: 120px;
         display: grid;
         place-items: center;
-        place-content: center;
         gap: 30px;
         border-bottom: 1px solid #767676;
         padding-bottom: 40px;
@@ -579,7 +579,7 @@ iframe{
 }
 
 
-@media screen and (min-width:1200px){
+@media only screen and (min-width:1200px){
     
     
     header{
@@ -610,7 +610,9 @@ iframe{
     }
     .nav{
         display: flex;
-        place-content: space-between;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
         margin-inline: auto;
         width: 1400px;
         margin-left: 50px;
@@ -618,7 +620,11 @@ iframe{
     }
     .menu{
         display: flex;
-        gap: 50px;
+        flex-direction: row;
+        justify-content: space-between;
+        flex: 1;
+        margin-right: 220px;
+        margin-left: 220px;
     }
     .menu-content{
         font-size: 18px;
@@ -728,11 +734,11 @@ iframe{
     }
     .five{
         grid-area: five;
-        padding-top: 20px;
+        padding-top: 9px;
         display: flex;
         flex-direction: row;
-        gap: 5px;
-        place-items: top;
+        gap: 15px;
+        align-items: start;
     }
     .footer-logo{
         font-size: 20px;
@@ -756,6 +762,9 @@ iframe{
     .message,.twitter,.youtube{
        width: 30px;
     }
+    .message:hover,.twitter:hover,.youtube:hover{
+        width: 34px;
+     }
     
 }
 
