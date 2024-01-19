@@ -1,6 +1,6 @@
 # My Awesome Webpage
 
-Welcome to my GitHub repository of Lobe-Tour! This project showcases a webpage created using HTML and CSS, incorporating various modern techniques such as Flexbox, CSS Grid, self-hosted fonts, pseudo-classes, HTML semantics, and accessibility features.
+Welcome to my GitHub repository of Lobe-Tour! This project showcases a webpage created using HTML and CSS, incorporating various modern techniques such as Flexbox, CSS Grid, self-hosted fonts, pseudo-classes, HTML semantics, accessibility features and media queries.
 
 ![Website Screenshot](https://github.com/Abubakar-Tamboli/Lobe-Tour-responsive-layout/blob/main/images/Lobe.png)
 
@@ -24,6 +24,19 @@ Welcome to my GitHub repository of Lobe-Tour! This project showcases a webpage c
 - **HTML Semantics**: The HTML structure is built with semantic elements, ensuring clarity and meaningful organization of content.
 
 - **Accessibility**: The webpage adheres to accessibility best practices, making it usable for a diverse audience, including those with disabilities.
+
+- /* Base styles for all screen sizes */
+
+/* Tablet styles */
+@media only screen and (min-width: 600px) {
+  /* Making responsive & suitable by using grid, flex , padding, margin */
+}
+
+/* Desktop styles */
+@media only screen and (min-width: 1024px) {
+  /* Making responsive & suitable by using grid, flex , padding, margin */
+}
+
 
 ## Technologies Used
 
