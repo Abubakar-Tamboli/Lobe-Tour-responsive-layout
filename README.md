@@ -1,6 +1,6 @@
 # My Awesome Webpage
 
-Welcome to my GitHub repository! This project showcases a webpage created using HTML and CSS, incorporating various modern techniques such as Flexbox, CSS Grid, self-hosted fonts, pseudo-classes, HTML semantics, and accessibility features.
+Welcome to my GitHub repository of Lobe-Tour! This project showcases a webpage created using HTML and CSS, incorporating various modern techniques such as Flexbox, CSS Grid, self-hosted fonts, pseudo-classes, HTML semantics, and accessibility features.
 
 ![Website Screenshot](https://github.com/Abubakar-Tamboli/Lobe-Tour-responsive-layout/blob/main/images/Lobe.png)
 
