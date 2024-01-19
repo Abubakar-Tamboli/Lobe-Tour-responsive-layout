@@ -37,4 +37,4 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Abubakar-Tamboli/Lobe-Tour-responsive-layout.git
+   git clone https://github.com/Abubakar-Tamboli/Lobe-Tour-responsive-layout
