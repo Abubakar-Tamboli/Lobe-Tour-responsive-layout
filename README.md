@@ -1,7 +1,7 @@
 # My Awesome Webpage
 
 Welcome to my GitHub repository! This project showcases a webpage created using HTML and CSS, incorporating various modern techniques such as Flexbox, CSS Grid, self-hosted fonts, pseudo-classes, HTML semantics, and accessibility features.
-![Website Screenshot]([https://example.com/path/to/screenshot.png](https://images.pexels.com/photos/16564261/pexels-photo-16564261/free-photo-of-chatgpt-webpage-open-on-smartphone.jpeg?auto=compress&cs=tinysrgb&w=600))
+![Website Screenshot]([[https://example.com/path/to/screenshot.png](https://images.pexels.com/photos/16564261/pexels-photo-16564261/free-photo-of-chatgpt-webpage-open-on-smartphone.jpeg?auto=compress&cs=tinysrgb&w=600)](https://www.google.com/imgres?imgurl=http%3A%2F%2F5.imimg.com%2Fdata5%2FZN%2FHW%2FEI%2FSELLER-41248177%2F500.jpg&tbnid=sahj5b3LLCtCrM&vet=12ahUKEwiW3tXCv-mDAxVlQ2wGHbSQDH4QMygMegUIARCNAQ..i&imgrefurl=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fwebpage-design-21618172155.html&docid=1SqtrqlWcWKhsM&w=500&h=490&q=webpage&ved=2ahUKEwiW3tXCv-mDAxVlQ2wGHbSQDH4QMygMegUIARCNAQ))
 ## Table of Contents
 
 - [Features](#features)
