@@ -4,15 +4,6 @@ Welcome to my GitHub repository of Lobe-Tour! This project showcases a webpage c
 
 ![Website Screenshot](https://github.com/Abubakar-Tamboli/Lobe-Tour-responsive-layout/blob/main/images/Lobe.png)
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Flexbox and CSS Grid**: The layout of the webpage is designed using Flexbox and CSS Grid, providing a responsive and flexible structure.
@@ -43,11 +34,6 @@ Welcome to my GitHub repository of Lobe-Tour! This project showcases a webpage c
 - HTML
 - CSS
 
-## Getting Started
+## Author
 
-To get a copy of this project up and running on your local machine, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/Abubakar-Tamboli/Lobe-Tour-responsive-layout.git
+- Website : [Abubakar Tamboli](https://github.com/Abubakar-Tamboli)
